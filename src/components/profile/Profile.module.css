@@ -11,7 +11,7 @@
   background: #F5E8DF; 
   color: #786450;
   background: linear-gradient(to top right, #F5E8DF 0%, #786450 100%); 
-	font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: 'Open Sans', Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
